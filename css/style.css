@@ -2,14 +2,18 @@
 	padding: 10px;
 	background-color: cornflowerblue;
 	color: white;
+    height: 30px;
 	border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h1{
   color: black;
 }
 
-section {
-	padding: 5px;
-}
+
+
+
 
