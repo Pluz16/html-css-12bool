@@ -83,4 +83,20 @@
 }
 
 
+/* NESTED */
+.col-6-nes{
+    flex-basis: calc((100% / 12) * 6);
+    background-color: rgb(56, 246, 103);
+}
+
+.col-8-nes {
+	flex-basis: calc((100% / 12) * 8);
+    background-color: rgb(56, 246, 103);
+}
+
+.col-2-nes {
+	flex-basis: calc((100% / 12) * 2);
+    background-color: rgb(56, 246, 103);
+}
+
 
